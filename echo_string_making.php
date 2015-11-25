@@ -7,9 +7,6 @@ for ($count = 0; $count < $n; $count++){
 }
 echo "\n";
 
-
-
-
 // 文字列の手動取得と、改行の削除について
 
 // 参考URL
